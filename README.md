@@ -1,4 +1,4 @@
-PowerPulse: Household Energy Usage Forecast
+# PowerPulse: Household Energy Usage Forecast
 
 This project develops and evaluates several regression models to predict household Global Active Power consumption based on minute-by-minute historical data and engineered features.
 
